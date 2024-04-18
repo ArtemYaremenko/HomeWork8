@@ -6,12 +6,9 @@ public class Main {
         int[] decimal = new int[3];
         for (int i = 0; i < decimal.length; i++) {
             decimal[i] = i + 1;
-            System.out.println(decimal[i]);
         }
         float[] floating = {1.57f, 7.654f, 9.986f};
-        for (float v : floating) {
-            System.out.println(v);
-        }
+
         boolean[] yesOrNo = {true, false};
 
         //Task 2
